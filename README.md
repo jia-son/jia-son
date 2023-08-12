@@ -15,8 +15,6 @@
   ## 🔭 GitHub stats
   ![JJI's GitHub stats](https://github-readme-stats.vercel.app/api?username=jia-son&show_icons=true&theme=transparent)
     
-
-  ## 🔭 Top language
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jia-son&layout=compact&theme=dark"/>
 </div>
 
